@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Los Angeles Lakers",
+        "Location": "Los Angeles, California",
+        "Championships": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2670, 34.0430]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Golden State Warriors",
+        "Location": "San Francisco, California",
+        "Championships": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.3860, 37.7689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Los Angeles Clippers",
+        "Location": "Los Angeles, California",
+        "Championships": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2670, 34.0430]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sacramento Kings",
+        "Location": "Sacramento, California",
+        "Championships": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.5180, 38.5800]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Phoenix Suns",
+        "Location": "Phoenix, Arizona",
+        "Championships": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.0710, 33.4450]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Denver Nuggets",
+        "Location": "Denver, Colorado",
+        "Championships": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.0060, 39.7486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Portland Trail Blazers",
+        "Location": "Portland, Oregon",
+        "Championships": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.6660, 45.5316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Utah Jazz",
+        "Location": "Salt Lake City, Utah",
+        "Championships": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.9018, 40.7683]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dallas Mavericks",
+        "Location": "Dallas, Texas",
+        "Championships": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.8103, 32.7904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "San Antonio Spurs",
+        "Location": "San Antonio, Texas",
+        "Championships": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.4375, 29.4269]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Houston Rockets",
+        "Location": "Houston, Texas",
+        "Championships": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.3622, 29.7508]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Memphis Grizzlies",
+        "Location": "Memphis, Tennessee",
+        "Championships": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.0516, 35.1380]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New Orleans Pelicans",
+        "Location": "New Orleans, Louisiana",
+        "Championships": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.0821, 29.9490]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Minnesota Timberwolves",
+        "Location": "Minneapolis, Minnesota",
+        "Championships": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.2760, 44.9795]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Oklahoma City Thunder",
+        "Location": "Oklahoma City, Oklahoma",
+        "Championships": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.5150, 35.4634]
+      }
+    }
+  ]
+}

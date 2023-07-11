@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Philadelphia 76ers",
+        "Location": "Philadelphia, Pennsylvania",
+        "Championships": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1719, 39.9012]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brooklyn Nets",
+        "Location": "Brooklyn, New York",
+        "Championships": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9479, 40.6826]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New York Knicks",
+        "Location": "New York City, New York",
+        "Championships": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9936, 40.7505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boston Celtics",
+        "Location": "Boston, Massachusetts",
+        "Championships": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0646, 42.3662]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Toronto Raptors",
+        "Location": "Toronto, Ontario, Canada",
+        "Championships": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.3792, 43.6435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chicago Bulls",
+        "Location": "Chicago, Illinois",
+        "Championships": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.6743, 41.8807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Indiana Pacers",
+        "Location": "Indianapolis, Indiana",
+        "Championships": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.1555, 39.7640]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Miami Heat",
+        "Location": "Miami, Florida",
+        "Championships": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.1870, 25.7814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Orlando Magic",
+        "Location": "Orlando, Florida",
+        "Championships": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.3670, 28.5392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Atlanta Hawks",
+        "Location": "Atlanta, Georgia",
+        "Championships": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3963, 33.7573]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Charlotte Hornets",
+        "Location": "Charlotte, North Carolina",
+        "Championships": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8392, 35.2251]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Washington Wizards",
+        "Location": "Washington, D.C.",
+        "Championships": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0209, 38.8981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cleveland Cavaliers",
+        "Location": "Cleveland, Ohio",
+        "Championships": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.6882, 41.4966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Detroit Pistons",
+        "Location": "Detroit, Michigan",
+        "Championships": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.0977, 42.3410]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Milwaukee Bucks",
+        "Location": "Milwaukee, Wisconsin",
+        "Championships": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.9170, 43.0451]
+      }
+    }
+  ]
+}
